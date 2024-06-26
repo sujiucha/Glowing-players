@@ -4,4 +4,4 @@
 * Makes the designated player glow
   * Players can be found directly
 ## Use feedback on issues
-If you have any questions, you can contact me directly for feedback
+If you have any questions, you can contact me directly
